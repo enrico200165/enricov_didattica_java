@@ -1,0 +1,30 @@
+# ERRORE GENERAZIONE PDF
+
+File Markdown sorgente:
+
+    C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\step20_md\lez_010_base_esercizi.md
+
+PDF non generato:
+
+    C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\step40_pdf\lez_010_base_esercizi.pdf
+
+Codice di uscita Pandoc:
+
+    43
+
+Comando eseguito:
+
+    pandoc C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\step20_md\lez_010_base_esercizi.md -o C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\step40_pdf\lez_010_base_esercizi.pdf --resource-path C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\step20_md;C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\imgs;C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\puml;C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\010_lezioni\010_base\src;C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java;C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\005_authoring_gen;C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\005_authoring_gen\imgs --pdf-engine xelatex -H C:\00_data\08_dev\08_dev-didattica\enricov_didattica_java\005_authoring_gen\latex\header1.tex
+
+Messaggio di errore:
+
+    Error producing PDF.
+    ! Unable to load picture or PDF file './005_authoring_gen/imgs/sfondocopyright.
+    png'.
+    <to be read again> 
+                       }
+    l.201 \end{verbatim}
+
+Output standard:
+
+    

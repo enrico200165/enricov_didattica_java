@@ -4,6 +4,9 @@ marp: true
 paginate: false
 theme: scuola-a4-landscape
 
+backgroundImage: url('../../../005_authoring_gen/imgs/sfondocopyright_a4.png')
+backgroundSize: cover
+
 ---
 
 ## Livello 1 – Overview
