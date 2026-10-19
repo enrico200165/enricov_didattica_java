@@ -5,6 +5,8 @@ C#*
 *.log
 
 
+*_ro.pdf
+
 *.pyc
 venv/
 
@@ -45,3 +47,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 /target/
+
+step20*/
+step40*/

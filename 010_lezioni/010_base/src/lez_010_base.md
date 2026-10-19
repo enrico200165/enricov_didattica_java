@@ -4,8 +4,13 @@ marp: true
 paginate: false
 theme: scuola-a4-landscape
 
-backgroundImage: url('/005_authoring_gen/imgs/sfondocopyright_a4.png')
+backgroundImage: url('/005_authoring_gen/imgs/sfondo-copyright-slide_land_12ptx.png')
 backgroundSize: cover
+backgroundPosition: center
+header: 'Note da esaminare opzionalmente **dopo aver esaurito il libro di testo. Lo studio è basato al 100% sul libro di testo**.'
+footer: 'Note da esaminare opzionalmente **dopo aver esaurito il libro di testo. Lo studio è basato al 100% sul libro di testo**.'
+---
+# Java - Concetti Base
 
 ---
 
@@ -153,7 +158,7 @@ Svantaggi:
 Potenza: bassa  
 Complessità: bassa
 
-## Alcuni riferimenti
+#### Alcuni riferimenti
 
 Notepad++ https://notepad-plus-plus.org/
 
@@ -173,7 +178,7 @@ Con le estensioni Java permette:
 Potenza: alta, come un IDE    
 Complessità: media
 
-## Alcuni riferimenti
+#### Alcuni riferimenti
 
 Visual Studio Code https://code.visualstudio.com/  
 
@@ -198,9 +203,9 @@ Svantaggi:
 Potenza: media  
 Complessità: bassa
 
-## Alcuni riferimenti  
+#### Alcuni riferimenti  
 
-BlueJ https://www.bluej.org/  
+BlueJ: https://www.bluej.org/  
 
 ---
 
@@ -228,7 +233,7 @@ Complessità: medio-alta
 
 ---
 
-## IDE - Alcuni riferimenti
+#### IDE - Alcuni riferimenti
 
 IntelliJ IDEA Community https://www.jetbrains.com/idea/download/
 
@@ -239,6 +244,10 @@ NetBeans https://netbeans.apache.org/
 ---
 
 ## Quale scegliere?
+
+**Nelle lezioni si utilizza un solo IDE scelto a inizio anno.**
+
+Per chi, per interesse personale, **a suo carico** vuole esaminare o usare alternative:
 
 Per iniziare:
 
@@ -269,7 +278,8 @@ Struttura minima:
         }
     }
 
-Concetti:
+Concetti:  
+
 - Le parentesi graffe delimitano i blocchi.
 - Ogni istruzione termina con il punto e virgola.
 - Il metodo main è il punto di ingresso del programma.
