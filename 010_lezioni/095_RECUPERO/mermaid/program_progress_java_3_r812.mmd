@@ -1,0 +1,6 @@
+flowchart TD
+    A[istruzioni precedenti] --> B{condizione}
+    B -- vera --> C[istruzioni ramo vero]
+    B -- falsa --> D[istruzioni ramo falso]
+    C --> E[istruzioni successive]
+    D --> E

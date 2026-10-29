@@ -1,0 +1,6 @@
+flowchart TD
+    A[inizializzazione] --> B{condizione}
+    B -- vera --> C[corpo del ciclo]
+    C --> D[aggiornamento]
+    D --> B
+    B -- falsa --> E[istruzioni successive]

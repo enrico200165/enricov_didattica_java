@@ -1,0 +1,5 @@
+flowchart LR
+    A["Ciao.java<br/>codice sorgente"] -- javac --> B["Ciao.class<br/>bytecode"]
+    B -- java --> C["esecuzione<br/>nella JVM"]
+    B -- jar --> D["programma.jar<br/>archivio"]
+    D -- "java -jar" --> C
