@@ -1,0 +1,29 @@
+%%{init: {'theme':'base','themeVariables':{'background':'#0b1f4b','primaryColor':'#13306e','primaryTextColor':'#ffffff','primaryBorderColor':'#8fb4ff','lineColor':'#ffffff','fontSize':'18px','fontFamily':'Verdana, Arial, sans-serif'}}}%%
+classDiagram
+    direction TB
+    class Forma {
+        <<interface>>
+        +area() double
+        +perimetro() double
+        +descrizione() String
+    }
+    class Ridimensionabile {
+        <<interface>>
+        +scala(double fattore) void
+    }
+    class Rettangolo {
+        -double base
+        -double altezza
+    }
+    class Cerchio {
+        -double raggio
+    }
+    class Immagine {
+        -int larghezzaPx
+        -int altezzaPx
+    }
+    Forma <|.. Rettangolo
+    Forma <|.. Cerchio
+    Ridimensionabile <|.. Rettangolo
+    Ridimensionabile <|.. Cerchio
+    Ridimensionabile <|.. Immagine

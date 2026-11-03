@@ -1,11 +1,4 @@
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-
-# ESERCIZI CON SOLUZIONI – LIVELLO 1 (Java)
-
----
-========
 ---  
 
 
@@ -16,7 +9,6 @@ Note da esaminare opzionalmente **dopo aver esaurito il libro di testo. Lo studi
 ---   
 
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 1. Introduzione a Java
 
@@ -34,12 +26,8 @@ public class Esercizio1 {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 2
 
@@ -56,12 +44,8 @@ public class Esercizio2 {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 3
 
@@ -72,12 +56,8 @@ Compilare manualmente con javac ed eseguire con java.
 * Compilazione: `javac Esercizio3.java`
 * Esecuzione: `java Esercizio3`
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -95,12 +75,8 @@ public class Esercizio4 {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 5
 
@@ -118,12 +94,8 @@ public class Esercizio5 {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 2. Ambiente di sviluppo
 
@@ -136,12 +108,8 @@ Verificare le versioni.
 * `java -version`
 * `javac -version`
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -152,12 +120,8 @@ Compilare generando file .class in una cartella bin.
 * `javac -d bin src/Esempio.java`
 * `java -cp bin Esempio`
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 3. Sintassi di base
 
@@ -175,12 +139,8 @@ public class TestSintassi {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -205,12 +165,8 @@ public class MetodiStatici {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 4. Tipi di dato e variabili
 
@@ -238,12 +194,8 @@ public class TipiPrimitivi {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -261,12 +213,8 @@ public class Cast {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 5. Operatori
 
@@ -290,12 +238,8 @@ public class Operatori1 {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 6
 
@@ -307,12 +251,8 @@ Espressione complessa.
 int risultato = (4 + 5 * 2) - (10 / 2);
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 6. Strutture di selezione
 
@@ -335,12 +275,8 @@ public class PariDispari {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -363,12 +299,8 @@ public class Maggiorenne {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 6
 
@@ -394,12 +326,8 @@ public class Accesso {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 7. Strutture iterative
 
@@ -415,12 +343,8 @@ for (int i = 1; i <= 10; i++) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -437,12 +361,8 @@ for (int i = 1; i <= n; i++) {
 System.out.println(somma);
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 6
 
@@ -459,12 +379,8 @@ for (int r = 1; r <= 5; r++) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 8. Array
 
@@ -481,12 +397,8 @@ for (int i = 0; i < a.length; i++) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -503,12 +415,8 @@ for (int i = 1; i < a.length; i++) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 6
 
@@ -528,12 +436,8 @@ for (int i = 0; i < a.length - 1; i++) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 9. Metodi
 
@@ -549,12 +453,8 @@ static int quadrato(int x) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 5
 
@@ -574,12 +474,8 @@ static int massimo(int[] a) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 6
 
@@ -597,12 +493,8 @@ static boolean primo(int n) {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 # 10. Classi e oggetti
 
@@ -619,12 +511,8 @@ public class Studente {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 4
 
@@ -644,12 +532,8 @@ public class Studente {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 7
 
@@ -675,12 +559,8 @@ public class Prodotto {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
 
 ## Esercizio 8
 
@@ -708,9 +588,5 @@ public class Rettangolo {
 }
 ```
 
-<<<<<<<< HEAD:010_lezioni/010_base/src/lez_010_base_esercizi.md
----
-========
 ---  
 
->>>>>>>> d4f1875 (s):010_lezioni/010_base/src/lez_011_base_esercizi.md
